@@ -1,0 +1,31 @@
+<html>
+<head>	
+	<link rel="stylesheet" type="text/css" href="localweb/stylesheets/locastyle.css" />	
+</head>
+
+<body>
+	CPF:
+	<input type="text" class="form-control" onkeypress="$(this).mask('000.000.000-00');">
+	CNPJ:
+	<input type="text" class="form-control" onkeypress="$(this).mask('00.000.000/0000-00')">
+	CEP:
+	<input type="text" class="form-control" onkeypress="$(this).mask('00.000-000')">
+	ALT/PESO:
+	<input type="text" class="form-control" onkeypress="$(this).mask('90,00')">
+	MOEDA:
+	<input type="text" class="form-control" onkeypress="$(this).mask('R$ 000.000.000,00', {reverse: true});">
+	TELEFONE:
+	<input type="text" class="form-control" onkeypress="$(this).mask('(00) 0000-00009')">
+	DATA:
+	<input type="text" class="form-control" onkeypress="$(this).mask('00/00/0000')">
+	HORA:
+	<input type="text" class="form-control" onkeypress="$(this).mask('00:00')">
+	<input type="text" class="form-control" onkeypress="$(this).mask('00h 00m')">
+	Exigir que todos os números do CPF, Telefone e CNPJ sejam digitados:
+	<input type="text" minlength="14" maxlength="14" class="form-control" onkeypress="$(this).mask('000.000.000-00');">
+</body>
+
+	<script src="jquery/jquery.js"></script>	
+	<script src="mask/dist/jquery.mask.min.js"></script>
+
+</html>
