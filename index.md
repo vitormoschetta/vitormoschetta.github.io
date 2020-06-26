@@ -1,4 +1,31 @@
-## Welcome to GitHub Pages
+## Lista de Competências
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/vitormoschetta/vitormoschetta.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
