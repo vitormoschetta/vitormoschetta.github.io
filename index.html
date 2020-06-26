@@ -370,10 +370,12 @@
     <script src="components/skills.js"></script>
     
     <script>
+        var year = new Date();
+        year = year.getFullYear();
         var app = new Vue({
             el: '#copyright',
-            data: {                
-                ano: '@2020' 
+            data: {    
+                ano: year
             }
         })
     </script>
