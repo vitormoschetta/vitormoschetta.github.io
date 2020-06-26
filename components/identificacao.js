@@ -10,7 +10,7 @@ Vue.component('identificacao', {
                         <p class="job-title">Developer</p>
                         <a href="#contact" class="btn btn-fill ">Entre em contato</a>
                         <div class="clearfix visible-xxs"></div>
-                        <a href="#portfolio" class="btn btn-border">O que eu faço</a>
+                        <a href="#service" class="btn btn-border">O que eu faço</a>
                     </div>
                 </div>
             
