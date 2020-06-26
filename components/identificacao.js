@@ -1,4 +1,4 @@
-Vue.component('identificacao-site', {
+Vue.component('identificacao', {
     props: ['identificacao'],
     template: `
         <div class="container">
