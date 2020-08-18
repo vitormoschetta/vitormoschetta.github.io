@@ -11,7 +11,7 @@ Vue.component('service', {
                     <div class="service">
                         <img src="assets/img/front-end.svg" alt="Front End Developer">
                         <h4>Front-end</h4>
-                        <p>Experiência apenas com HTML, CSS, JavaScript, JSON, AJAX, jQuery e Bootstrap. <br>
+                        <p>Experiência com HTML, CSS, JavaScript, JSON, AJAX, jQuery, Bootstrap e o básico de VueJS. <br>
                         [ Desenvolvimento de Interfaces ]</p>
                     </div>
                 </div>
@@ -19,7 +19,7 @@ Vue.component('service', {
                     <div class="service">
                         <img src="assets/img/back-end.svg" alt="Back End Developer">
                         <h4>Back-end</h4>
-                        <p>Experiência com Asp.NET Core MVC e Web API. Sólidos conhecimentos nas linguagens C# e SQL. 
+                        <p>Experiência com Asp.NET Core MVC, Razor Pages e WebAPI. Sólidos conhecimentos nas linguagens C# e SQL. 
                         Como ORM utilizamos o Entity Framework (Code e Database First), e o Micro ORM Dapper quando necessário um melhor desempenho.<br>
                         [ Aplicações seguras e robustas ]
                         </p>
@@ -29,7 +29,7 @@ Vue.component('service', {
                     <div class="service">
                         <img src="assets/img/consultancy.svg" alt="Coding">
                         <h4>Analise de Requisitos</h4>
-                        <p>Facilidade para abstrair informações de negócio e levantamento de requisitos, além de boa comunicação. <br>
+                        <p>Facilidade para abstrair informações de negócio e levantamento de requisitos. <br>
                         [ Desenvolvimento de Soluções ]
                         </p>
                     </div>
