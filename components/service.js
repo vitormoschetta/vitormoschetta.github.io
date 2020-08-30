@@ -9,28 +9,29 @@ Vue.component('service', {
                 </div>
                 <div class="col-sm-4">
                     <div class="service">
-                        <img src="assets/img/front-end.svg" alt="Front End Developer">
-                        <h4>Front-end</h4>
-                        <p>Experiência com HTML, CSS, JavaScript, JSON, AJAX, jQuery, Bootstrap e o básico de VueJS. <br>
-                        [ Desenvolvimento de Interfaces ]</p>
+                     <img src="assets/img/consultancy.svg" alt="Coding">
+                        <h4>Análise de Requisitos</h4>
+                        <p>Entender a necessidade do cliente e encontrar a melhor solução é o primeiro passo para um projeto bem sucedido.         
+                        </p>                                                
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="service">
                         <img src="assets/img/back-end.svg" alt="Back End Developer">
                         <h4>Back-end</h4>
-                        <p>Experiência com Asp.NET Core MVC, Razor Pages e WebAPI. Sólidos conhecimentos nas linguagens C# e SQL. 
-                        Como ORM utilizamos o Entity Framework (Code e Database First), e o Micro ORM Dapper quando necessário um melhor desempenho.<br>
-                        [ Aplicações seguras e robustas ]
+                        <p>O conhecimento técnico nos permite pensar na solução mais apropriada ainda na fase de análise. 
+                        Experiência com Asp.NET Core MVC, Razor Pages e WebAPI. Sólidos conhecimentos nas linguagens C# e SQL. 
+                        Trabalhamos com modernas bibliotecas de persistência de dados, como o Entity Framework (Code e Database First), 
+                        e o Micro ORM Dapper.                     
                         </p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="service">
-                        <img src="assets/img/consultancy.svg" alt="Coding">
-                        <h4>Analise de Requisitos</h4>
-                        <p>Facilidade para abstrair informações de negócio e levantamento de requisitos. <br>
-                        [ Desenvolvimento de Soluções ]
+                        <img src="assets/img/front-end.svg" alt="Front End Developer">
+                        <h4>Front-end</h4>
+                        <p>Entender como as coisas acontecem na tela do usuário também é muito importante. 
+                        Experiência com HTML, CSS, JavaScript e Bibliotecas robustas, como jQuery e Bootstrap.                        
                         </p>
                     </div>
                 </div>
