@@ -67,9 +67,9 @@
             </div>
         </section>
 
-        <section id="service" class="site-section section-services overlay text-center">
-           <service></service>
-        </section><!-- /.secton-services -->
+        <section id="service" class="site-section section-services overlay text-center">            
+            <service></service>
+        </section>
 
         <section id="portfolio" class="site-section section-portfolio">
             <div class="container">
@@ -77,42 +77,15 @@
                     <h3>Trabalhos Recentes</h3>
                     <img src="assets/img/lines.svg" class="img-lines" alt="lines">
                 </div>
-                  <div class="row">
-                    <div class="col-md-4 col-xs-6">
-                        <div class="portfolio-item">
-                            <img src="assets/img/portfolio-01.jpg" class="img-res" alt="">
-                            <div class="portfolio-item-info">
-                                <h4>Contratos </h4>
-                                <a href="#" data-toggle="modal" data-target="#portfolioItem1"><span class="glyphicon glyphicon-eye-open"></span></a>
-                                <!-- <a href="#"><span class="glyphicon glyphicon-link"></span></a> -->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-xs-6">
-                        <div class="portfolio-item">
-                            <img src="assets/img/portfolio-02.jpg" class="img-res" alt="">
-                            <div class="portfolio-item-info">
-                                <h4>Educação</h4>
-                                <a href="#" data-toggle="modal" data-target="#portfolioItem2"><span class="glyphicon glyphicon-eye-open"></span></a>
-                                <!-- <a href="#"><span class="glyphicon glyphicon-link"></span></a> -->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-xs-6">
-                        <div class="portfolio-item">
-                            <img src="assets/img/portfolio-03.jpg" class="img-res" alt="">
-                            <div class="portfolio-item-info">
-                                <h4>Educação</h4>
-                                <a href="#" data-toggle="modal" data-target="#portfolioItem3"><span class="glyphicon glyphicon-eye-open"></span></a>
-                                <!-- <a href="#"><span class="glyphicon glyphicon-link"></span></a> -->
-                            </div>
-                        </div>
-                    </div>                   
-                </div>
+                
+                <section id="portfolioBody" class="site-section section-about text-center">
+                    <portfolio></portfolio>      
+                </section>                        
+
             </div>
         </section>
 
-        <!-- <section class="site-section section-counters text-center">
+       <!-- <section class="site-section section-counters text-center">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4 col-xs-12">
@@ -129,35 +102,10 @@
                     </div>
                 </div>
             </div>
-        </section> -->
+        </section>  -->
 
         <section id="contact" class="site-section section-form text-center">
-            <div class="container">
-
-                <h3>Contato</h3>
-                <img src="assets/img/lines.svg" class="img-lines" alt="lines">
-                <div class="row">
-                    <div class="col-sm-6">
-                        e-mail:
-                        <label>vitormoschetta@gmail.com</label>
-                    </div>
-                    <div class="col-sm-6">
-                        linkedin:
-                        <a href="https://www.linkedin.com/in/vitor-moschetta/" target="_blank">https://www.linkedin.com/in/vitor-moschetta/</a> 
-                    </div>
-                    
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        Phone:
-                        <label>+55 (69) 9 99222-1727</label>
-                    </div>
-                    <div class="col-sm-6">
-                        Site pessoal:
-                        <a href="https://developer-jr.webnode.com/conteudo/" target="_blank">Developer Jr</a>
-                    </div>
-                </div>                                  
-            </div>
+            <contact></contact>
         </section>
 
     </main>
@@ -166,10 +114,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-4 col-xs-12">
-                    <a class="icon facebook-bg" href="#"><i class="icon-facebook"></i></a>
+                    <!-- <a class="icon facebook-bg" href="#"><i class="icon-facebook"></i></a>
                     <a class="icon twitter-bg" href="#"><i class="icon-twitter"></i></a>
                     <a class="icon gplus-bg" href="#"><i class="icon-linkedin"></i></a>
-                    <a class="icon linkedin-bg" href="#"><i class="icon-gplus"></i></a>
+                    <a class="icon linkedin-bg" href="#"><i class="icon-gplus"></i></a> -->
                 </div>
                 <div class="col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3"><p class="copyright" id="copyright">{{ ano }} Todos os direitos reservados</p></div>
                 <div class="col-sm-4 col-xs-3">
@@ -196,9 +144,9 @@
           <div class="modal-footer">
             <a href="portfolio-01.html" target="_blank" class="btn btn-fill">Ver em tamanho real</a>            
           </div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
+        </div>
+      </div>
+    </div>
 
     <div id="portfolioItem2" class="modal fade" role="dialog">
       <div class="modal-dialog">
@@ -214,9 +162,9 @@
           <div class="modal-footer">
             <a href="portfolio-02.html" target="_blank" class="btn btn-fill">Ver em tamanho real</a>    
           </div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
+        </div>
+      </div>
+    </div>
 
     <div id="portfolioItem3" class="modal fade" role="dialog">
       <div class="modal-dialog">
@@ -232,16 +180,13 @@
           <div class="modal-footer">
             <a href="portfolio-03.html" target="_blank" class="btn btn-fill">Ver em tamanho real</a>         
           </div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
+        </div>
+      </div>
+    </div>
 
     
     
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
@@ -255,6 +200,8 @@
     <script src="components/about.js"></script>
     <script src="components/skills.js"></script>
     <script src="components/service.js"></script>
+    <script src="components/portfolio.js"></script>
+    <script src="components/contact.js"></script>
     
     <script>
         var year = new Date();
