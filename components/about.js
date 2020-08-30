@@ -7,9 +7,9 @@ Vue.component('about', {
                     <h2>Sobre</h2>
                     <img src="assets/img/lines.svg" class="img-lines" alt="lines">
                     <p>Casado, 31 anos, pai de dois lindos meninos. Fui militar das forças armadas por 8 anos. Gerente comercial por 2 anos e meio.
-                    Agora uso meus conhecimentos em análise e desenvolvimento de sistemas.
-                    <a href="documents/Curriculo.pdf" class="btn btn-fill" target="_blank">Download Curriculo</a>
-                  
+                    Sempre me preocupei em facilitar as coisas, criando mecanismos, testando ferramentas e automatizando processos.  
+                    Percebi que essa era a minha paixão: resolver problemas por meio da tecnologia. 
+                    <a href="documents/Curriculo.pdf" class="btn btn-fill" target="_blank">Download Curriculo</a>                  
                 </div>
             </div>
         </div>
