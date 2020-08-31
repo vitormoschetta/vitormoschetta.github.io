@@ -23,7 +23,7 @@ Vue.component('contact', {
                 </div>
                 <div class="col-sm-6">
                     Site pessoal:
-                    <a href="https://developer-jr.webnode.com/conteudo/" target="_blank">Developer Jr</a>
+                    <a href="https://vitormoschetta.wordpress.com/" target="_blank">vitormoschetta</a>
                 </div>
             </div>                                  
         </div>
