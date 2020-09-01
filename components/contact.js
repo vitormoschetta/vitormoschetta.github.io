@@ -22,8 +22,17 @@ Vue.component('contact', {
                     <label>+55 (69) 9 99222-1727</label>
                 </div>
                 <div class="col-sm-6">
-                    Site pessoal:
-                    <a href="https://vitormoschetta.wordpress.com/" target="_blank">vitormoschetta</a>
+                    Blog:
+                    <a href="https://vitormoschetta.wordpress.com/" target="_blank">https://vitormoschetta.wordpress.com/</a>
+                </div>
+            </div>              
+            <div class="row">
+                <div class="col-sm-6">
+                  
+                </div>
+                <div class="col-sm-6">
+                    Blog:
+                    <a href="https://github.com/vitormoschetta" target="_blank">GitHub/</a>
                 </div>
             </div>                                  
         </div>
