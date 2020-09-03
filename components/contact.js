@@ -7,34 +7,24 @@ Vue.component('contact', {
             <img src="assets/img/lines.svg" class="img-lines" alt="lines">
             <div class="row">
                 <div class="col-sm-6">
-                    e-mail:
-                    <label>vitormoschetta@gmail.com</label>
+                    e-mail: <label>vitormoschetta@gmail.com</label>
+                    <br/>
+                    Phone: <label>+55 (69) 9 99222-1727</label>
                 </div>
-                <div class="col-sm-6">
-                    linkedin:
-                    <a href="https://www.linkedin.com/in/vitor-moschetta/" target="_blank">https://www.linkedin.com/in/vitor-moschetta/</a> 
+                <div class="col-sm-6">                    
+                    <a href="https://www.linkedin.com/in/vitor-moschetta/" target="_blank">
+                        <img src="assets/img/linkedin.jpg" width="90" height="90">
+                    </a> 
+                    <a href="https://github.com/vitormoschetta" target="_blank">
+                        <img src="assets/img/github.jpg" width="70" height="70">
+                    </a>
+                    <a href="https://vitormoschetta.wordpress.com/" target="_blank">
+                        <img src="assets/img/blog.jpg" width="70" height="70">Blog
+                    </a>
                 </div>
                 
             </div>
-            <div class="row">
-                <div class="col-sm-6">
-                    Phone:
-                    <label>+55 (69) 9 99222-1727</label>
-                </div>
-                <div class="col-sm-6">
-                    Blog:
-                    <a href="https://vitormoschetta.wordpress.com/" target="_blank">https://vitormoschetta.wordpress.com/</a>
-                </div>
-            </div>              
-            <div class="row">
-                <div class="col-sm-6">
-                  
-                </div>
-                <div class="col-sm-6">
-                    Blog:
-                    <a href="https://github.com/vitormoschetta" target="_blank">GitHub/</a>
-                </div>
-            </div>                                  
+                                              
         </div>
     `
   })
