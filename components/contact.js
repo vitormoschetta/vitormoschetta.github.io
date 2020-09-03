@@ -13,13 +13,13 @@ Vue.component('contact', {
                 </div>
                 <div class="col-sm-6">                    
                     <a href="https://www.linkedin.com/in/vitor-moschetta/" target="_blank">
-                        <img src="assets/img/linkedin.jpg" width="90" height="90">
+                        <img src="assets/img/icons/linkedin.jpg" width="90" height="90">
                     </a> 
                     <a href="https://github.com/vitormoschetta" target="_blank">
-                        <img src="assets/img/github.jpg" width="70" height="70">
+                        <img src="assets/img/icons/github.jpg" width="70" height="70">
                     </a>
                     <a href="https://vitormoschetta.wordpress.com/" target="_blank">
-                        <img src="assets/img/blog.jpg" width="70" height="70">Blog
+                        <img src="assets/img/icons/blog.jpg" width="70" height="70">Blog
                     </a>
                 </div>
                 
