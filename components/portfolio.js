@@ -1,7 +1,15 @@
 Vue.component('portfolio', {
     props: ['a'],
     template: `
+
     <div class="row">
+        <div class="col-12">
+            <a href="https://github.com/vitormoschetta" target="_blank">
+                <img src="assets/img/icons/github.jpg" width="70" height="70">
+                Visite meu repositório no GitHub.                
+            </a>
+        </div>
+        
         <div class="col-md-4 col-xs-6">
             <div class="portfolio-item">
                 <img src="assets/img/portfolio/portfolio-04.jpg" class="img-res" alt="">
@@ -75,12 +83,12 @@ Vue.component('portfolio', {
         </div>                   
     </div>
     `
-  })
+})
 
 
-  var portfolioBody = new Vue({
+var portfolioBody = new Vue({
     el: '#portfolioBody',
     data: {
-    
+
     }
-  })
+})
