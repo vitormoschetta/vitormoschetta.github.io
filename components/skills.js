@@ -24,7 +24,7 @@ Vue.component('skills', {
                     </div>
                 </div>
                 <div class="skill">
-                    <h4>Asp.NET Core MVC</h4>
+                    <h4>Asp.NET Core</h4>
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" data-transitiongoal="90"></div>
                     </div>
@@ -48,12 +48,12 @@ Vue.component('skills', {
 
         </div>
     `
-  })
+})
 
 
-  var skills = new Vue({
+var skills = new Vue({
     el: '#skills',
     data: {
-    
+
     }
-  })
+})

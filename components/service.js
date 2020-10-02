@@ -28,7 +28,7 @@ Vue.component('service', {
                      <img src="assets/img/consultancy.svg" alt="Coding">
                         <h4>Aplicação Web</h4>
                         <p>
-                            Blog / Site / Portal / Web App / Formulário Web
+                            Blog / Site / Portal / Web App / Formulário Web / SPA
                         </p>                                                
                     </div>
                 </div>
