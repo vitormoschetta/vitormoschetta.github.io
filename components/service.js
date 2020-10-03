@@ -19,7 +19,7 @@ Vue.component('service', {
                      <img src="assets/img/consultancy.svg" alt="Coding">
                         <h4>Aplicação Desktop</h4>
                         <p>
-                            
+                            Aplicação para Windows
                         </p>                                                
                     </div>
                 </div>
