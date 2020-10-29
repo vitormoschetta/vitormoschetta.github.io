@@ -4,11 +4,13 @@ Vue.component('portfolio', {
 
     <div class="row">
         <div class="col-12">
-            <a href="https://github.com/vitormoschetta" target="_blank">
-                <img src="assets/img/icons/github.jpg" width="70" height="70">
-                Visite meu repositório no GitHub.                
+            <a href="https://vitor-monolito-mvc.herokuapp.com/Cliente" target="_blank">                
+                Experimente uma das aplicações cliando Aqui.                
             </a>
-        </div>
+        </div>       
+        
+        <br>
+        <br>
         
         <div class="col-md-4 col-xs-6">
             <div class="portfolio-item">
@@ -71,16 +73,16 @@ Vue.component('portfolio', {
                 </div>
             </div>
         </div>
-        <div class="col-md-4 col-xs-6">
-            <div class="portfolio-item">
-                <img src="assets/img/portfolio/portfolio-03.jpg" class="img-res" alt="">
-                <div class="portfolio-item-info">
-                    <h4>Portfolio</h4>
-                    <a href="#" data-toggle="modal" data-target="#portfolioItem6"><span class="glyphicon glyphicon-eye-open"></span></a>
-                    <!-- <a href="#"><span class="glyphicon glyphicon-link"></span></a> -->
-                </div>
-            </div>
-        </div>                   
+        
+        <br>
+        <br>
+        <div class="col-12">
+            <a href="https://github.com/vitormoschetta" target="_blank">
+                <img src="assets/img/icons/github.jpg" width="70" height="70">
+                Visite meu repositório no GitHub.                
+            </a>
+        </div>       
+                
     </div>
     `
 })
