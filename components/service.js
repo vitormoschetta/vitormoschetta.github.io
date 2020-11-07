@@ -19,7 +19,7 @@ Vue.component('service', {
                      <img src="assets/img/consultancy.svg" alt="Coding">
                         <h4>Aplicação Desktop</h4>
                         <p>
-                            Aplicação para Windows
+                            Aplicação para uso em ambiente interno.
                         </p>                                                
                     </div>
                 </div>
@@ -28,7 +28,7 @@ Vue.component('service', {
                      <img src="assets/img/consultancy.svg" alt="Coding">
                         <h4>Aplicação Web</h4>
                         <p>
-                            Blog / Site / Portal / Web App / Formulário Web / SPA
+                            Blog, site, portal, home page, formulários web, etc
                         </p>                                                
                     </div>
                 </div>
@@ -37,7 +37,7 @@ Vue.component('service', {
                      <img src="assets/img/consultancy.svg" alt="Coding">
                         <h4>Web Services</h4>
                         <p>
-                            Web API                         
+                            Comunicação entre diferentes dispositivos e aplicações com autenticação JWT.                        
                         </p>                                                
                     </div>
                 </div>
@@ -47,9 +47,7 @@ Vue.component('service', {
                      <img src="assets/img/consultancy.svg" alt="Coding">
                         <h4>Aplicação Corporativa</h4>
                         <p>
-                            Domain Drive Design (DDD) 
-                            <br> / <br>
-                            Aplicação MVC                            
+                            Desenvolvimento de aplicações robustas, seguras e escaláveis. Para ambiente interno ou em nuvem.                                                    
                         </p>                                                
                     </div>
                 </div>
