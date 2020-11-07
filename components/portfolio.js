@@ -73,9 +73,7 @@ Vue.component('portfolio', {
         </div>         
         <br>
         <br>
-        
-        
-        <div class="col-md-4 col-xs-6">
+        <div class="col-12">
             <a href="https://github.com/vitormoschetta" target="_blank">
                 <img src="assets/img/icons/github.jpg" width="70" height="70">
                 Visite meu repositório no GitHub.                
