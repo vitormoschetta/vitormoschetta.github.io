@@ -42,7 +42,7 @@ Vue.component('portfolio', {
                 <img src="assets/img/portfolio/portfolio-08.png" class="img-res" alt="">
                 <div class="portfolio-item-info">
                     <h4>Portfolio</h4>
-                    <a href="https://vitor-net-core-uikit.herokuapp.com/Product/" target="_blank">
+                    <a href="https://net5-uikit.herokuapp.com/" target="_blank">
                         <span class="glyphicon glyphicon-eye-open"></span>
                     </a>     
                 </div>
@@ -54,7 +54,7 @@ Vue.component('portfolio', {
                 <img src="assets/img/portfolio/portfolio-01.png" class="img-res" alt="">
                 <div class="portfolio-item-info">
                     <h4>Portfolio </h4>
-                    <a href="https://vitor-net-core-uikit.herokuapp.com/Product/" target="_blank">
+                    <a href="https://net5-uikit.herokuapp.com/" target="_blank">
                         <span class="glyphicon glyphicon-eye-open"></span>
                     </a> 
                 </div>
@@ -65,7 +65,7 @@ Vue.component('portfolio', {
                 <img src="assets/img/portfolio/portfolio-02.png" class="img-res" alt="">
                 <div class="portfolio-item-info">
                     <h4>Portfolio</h4>
-                    <a href="https://vitor-net-core-uikit.herokuapp.com/Product/" target="_blank">
+                    <a href="https://net5-uikit.herokuapp.com/" target="_blank">
                         <span class="glyphicon glyphicon-eye-open"></span>
                     </a> 
                 </div>
