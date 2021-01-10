@@ -2,7 +2,73 @@ Vue.component('portfolio', {
     props: ['a'],
     template: `
 
-    <div class="row">               
+    <div class="row">   
+        <div class="col-md-4 col-xs-6">
+            <div class="portfolio-item">
+                <img src="assets/img/portfolio/angular-mobile01.jpg" class="img-res" alt="">
+                <div class="portfolio-item-info">
+                    <h4>Portfolio </h4>
+                    <a href="https://frontend-angular-amber.vercel.app/" target="_blank">
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                    </a>                    
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-xs-6">
+            <div class="portfolio-item">
+                <img src="assets/img/portfolio/angular-mobile02.jpg" class="img-res" alt="">
+                <div class="portfolio-item-info">
+                    <h4>Portfolio</h4>
+                    <a href="https://frontend-angular-amber.vercel.app/" target="_blank">
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                    </a>                    
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-xs-6">
+            <div class="portfolio-item">
+                <img src="assets/img/portfolio/angular-mobile03.jpg" class="img-res" alt="">
+                <div class="portfolio-item-info">
+                    <h4>Portfolio</h4>
+                    <a href="https://frontend-angular-amber.vercel.app/" target="_blank">
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                    </a>                    
+                </div>
+            </div>
+        </div>              
+        <div class="col-md-4 col-xs-6">
+            <div class="portfolio-item">
+                <img src="assets/img/portfolio/angular-web01.jpg" class="img-res" alt="">
+                <div class="portfolio-item-info">
+                    <h4>Portfolio </h4>
+                    <a href="https://frontend-angular-amber.vercel.app/" target="_blank">
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                    </a>                    
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-xs-6">
+            <div class="portfolio-item">
+                <img src="assets/img/portfolio/angular-register01.jpg" class="img-res" alt="">
+                <div class="portfolio-item-info">
+                    <h4>Portfolio</h4>
+                    <a href="https://frontend-angular-amber.vercel.app/" target="_blank">
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                    </a>                    
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-xs-6">
+            <div class="portfolio-item">
+                <img src="assets/img/portfolio/angular-register02.jpg" class="img-res" alt="">
+                <div class="portfolio-item-info">
+                    <h4>Portfolio</h4>
+                    <a href="https://frontend-angular-amber.vercel.app/" target="_blank">
+                        <span class="glyphicon glyphicon-eye-open"></span>
+                    </a>                    
+                </div>
+            </div>
+        </div>              
         
         <div class="col-md-4 col-xs-6">
             <div class="portfolio-item">
