@@ -37,7 +37,7 @@ Vue.component('service', {
                      <img src="assets/img/consultancy.svg" alt="Coding">
                         <h4>Web Services</h4>
                         <p>
-                            Comunicação entre diferentes dispositivos e aplicações com autenticação JWT.                        
+                            Comunicação entre diferentes dispositivos e aplicações com API REST e autenticação JWT.                        
                         </p>                                                
                     </div>
                 </div>
