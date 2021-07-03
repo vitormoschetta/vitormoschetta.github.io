@@ -7,7 +7,7 @@ Vue.component('identificacao', {
                 <div class="col-md-6">
                     <h1>Vitor Moschetta</h1>
                     <div class="page-scroll">
-                        <p class="job-title">.NET Core Developer</p>
+                        <p class="job-title">Full Stack Developer</p>
                         <a href="#contact" class="btn btn-fill ">Entre em contato</a>
                         <div class="clearfix visible-xxs"></div>
                         <a href="#service" class="btn btn-border">O que eu faço</a>
